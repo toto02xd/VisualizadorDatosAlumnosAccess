@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\MiPrimeraConexion2\MiPrimeraConexion2\obj\Debug\MiPrimeraConexion2.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\MiPrimeraConexion2\MiPrimeraConexion2\obj\Debug\MiPrimeraConexion2.Form1.resources
+C:\Users\PC\source\repos\MiPrimeraConexion2\MiPrimeraConexion2\obj\Debug\MiPrimeraConexion2.Properties.Resources.resources
+C:\Users\PC\source\repos\MiPrimeraConexion2\MiPrimeraConexion2\obj\Debug\MiPrimeraConexion2.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\MiPrimeraConexion2\MiPrimeraConexion2\obj\Debug\MiPrimeraConexion2.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\MiPrimeraConexion2\MiPrimeraConexion2\bin\Debug\MiPrimeraConexion2.exe.config
+C:\Users\PC\source\repos\MiPrimeraConexion2\MiPrimeraConexion2\bin\Debug\MiPrimeraConexion2.exe
+C:\Users\PC\source\repos\MiPrimeraConexion2\MiPrimeraConexion2\bin\Debug\MiPrimeraConexion2.pdb
+C:\Users\PC\source\repos\MiPrimeraConexion2\MiPrimeraConexion2\obj\Debug\MiPrimeraConexion2.exe
+C:\Users\PC\source\repos\MiPrimeraConexion2\MiPrimeraConexion2\obj\Debug\MiPrimeraConexion2.pdb
